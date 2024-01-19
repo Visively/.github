@@ -1,6 +1,6 @@
 # Hello from Visively
 We are an independent Technical SEO and Organic Growth Consultancy founded by 
-@mrpedrodias holding 17+ years of search experience.
+[@mrpedrodias](_https://github.com/mrpedrodias) holding 17+ years of search experience.
 
 #TechnicalSEO #ECommerceSEO #SEOProductManagement
 
